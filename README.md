@@ -4,13 +4,13 @@ A photomosaic of the planet created from images of 10,000 human irises.
 
 More than 8,800 irises have been captured to date.
 
-Learn more at [the Eyes of Gaia project website](https://jamescarlson.me)
+Learn more at [the Eyes of Gaia project website](https://jamescarlson.me).
 
 ## A photographic machine learning project
 
 The project will use ML to match each eye to the surface of the Earth in a specific location, based on the texture and color features found in that eye and in that location.
 
-The Earth is divided into hexes of equal size (using Uber's wonderful H3 library)[https://github.com/uber/h3] from each of which image data is obtained from (Landsat 8, 7, and 5 datasets)[https://developers.google.com/earth-engine/datasets/catalog/landsat] in the Google Earth Engine catalog.  
+The Earth is divided into hexes of equal size [using Uber's wonderful H3 library](https://github.com/uber/h3) from each of which image data is obtained from [Landsat 8, 7, and 5 datasets](https://developers.google.com/earth-engine/datasets/catalog/landsat) in the Google Earth Engine catalog.  
 
 | Matching this                                                | To this                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
