@@ -4,7 +4,7 @@ A photomosaic of the planet created from images of 10,000 human irises.
 
 More than 8,800 irises have been captured to date.
 
-Learn more at (the Eyes of Gaia project website)[https://jamescarlson.me]
+Learn more at [the Eyes of Gaia project website](https://jamescarlson.me)
 
 ## A photographic machine learning project
 
@@ -20,7 +20,7 @@ The Earth is divided into hexes of equal size (using Uber's wonderful H3 library
 
 The human eye is a challenging subject to capture. Achieving good results during photography requires the use of macro lenses, multiple light sources from different angles of incidence, and the combination of multiple photographs to achieve a reasonable result.
 
-![image-processing](.\docs\static\images\image-processing.png)
+<img src=".\docs\static\images\image-processing.png"/>
 
 This process is currently done manually using a combination of ImageMagick, Adobe Lightroom and Adobe Photoshop, but is the _first candidate for process automation using machine learning._
 
